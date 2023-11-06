@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mayurmendapara/Navratri/static/css/main.31d6cfe0.css",
+    "main.js": "/mayurmendapara/Navratri/static/js/main.92f734f4.js",
+    "static/js/787.7deb6b20.chunk.js": "/mayurmendapara/Navratri/static/js/787.7deb6b20.chunk.js",
+    "index.html": "/mayurmendapara/Navratri/index.html",
+    "main.92f734f4.js.map": "/mayurmendapara/Navratri/static/js/main.92f734f4.js.map",
+    "787.7deb6b20.chunk.js.map": "/mayurmendapara/Navratri/static/js/787.7deb6b20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.92f734f4.js"
+  ]
+}
